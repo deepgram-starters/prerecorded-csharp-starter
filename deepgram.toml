@@ -6,7 +6,7 @@ repository = "https://github.com/deepgram-starters/csharp-transcription"
 useCase = "transcription"
 language = "csharp"
 framework = "dotnet"
-sdk = "6.6.1"
+sdk = "6.9.0"
 tags = ["transcription", "stt", "speech-to-text", "asr", "pre-recorded", "csharp", "dotnet"]
 
 # Check prerequisites
